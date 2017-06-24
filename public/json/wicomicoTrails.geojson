@@ -12,8 +12,8 @@
         "OBJECTID": 1,
         "Id": 1,
         "Shape_Leng": 0.01809744799,
-        "Name": "WinterPlace Park & Equestrian Center",
-        "Address": "6737 Blue Ribbon Rd, Salisbury, MD 21804",
+        "name": "WinterPlace Park & Equestrian Center",
+        "address": "6737 Blue Ribbon Rd, Salisbury, MD 21804",
         "Distance": null
       },
       "geometry": {
@@ -450,8 +450,8 @@
         "OBJECTID": 2,
         "Id": 2,
         "Shape_Leng": 0.063058355073099995,
-        "Name": "Pemberton Historical Park",
-        "Address": "5561 Plantation Ln, Salisbury, MD 21801",
+        "name": "Pemberton Historical Park",
+        "address": "5561 Plantation Ln, Salisbury, MD 21801",
         "Distance": null
       },
       "geometry": {
@@ -802,8 +802,8 @@
         "OBJECTID": 3,
         "Id": 3,
         "Shape_Leng": 0.036969481085,
-        "Name": "Salisbury Zoological Park",
-        "Address": "755 S Park Dr, Salisbury, MD 21804",
+        "name": "Salisbury Zoological Park",
+        "address": "755 S Park Dr, Salisbury, MD 21804",
         "Distance": null
       },
       "geometry": {
