@@ -1,6 +1,6 @@
 {
   "name": "walkWicomico",
-  "homepage": "https://",
+  "homepage": "https://apps.esrgc.org/wihd",
   "version": "1.0.0",
   "author": "Carl Flint",
   "main": "server.js",
@@ -28,7 +28,6 @@
     "react-bootstrap-carousel": "^1.2.0",
     "react-burger-menu": "^2.0.2",
     "react-dom": "^15.4.2",
-    "react-slick": "^0.14.11",
     "serve-favicon": "~2.3.0",
     "tether": "^1.4.0"
   },
